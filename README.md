@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-diogo">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
 <h2 align="center"> Este projeto é para </h2>
-<h4>Responsividade</h4>
+
 - 🖥️
 <br>
  
